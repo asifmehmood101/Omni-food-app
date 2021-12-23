@@ -65,7 +65,8 @@ Medium: 11px
 }
 
 /* root element in this case html element */
-:root {
+:root,
+html {
   /* 10/16 *100 = 62.5% */
   /* best practice */
   font-size: 62.5%;
